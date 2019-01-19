@@ -11,7 +11,7 @@
         "successColor": "#1E7C3A",
         "infoColor": "#74a3c7",
         "warningColor": "#FFD785",
-        "dangerColor": "#FF9685",
+        "dangerColor": "#931501",
         "titleFont": "Oswald",
         "subtitleFont": "Oswald",
         "textFont": "Oswald",
@@ -20,12 +20,14 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
-        "#173686"
+        "#173686",
+        "#ff2200",
+        "#931501"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.4",
-    "uniqCompNum": 3,
+    "uniqCompNum": 8,
     "versionPublish": "4.6.4",
     "favicon": "@PROJECT_PATH@/assets/images/maximaqualight-eagle-128x139.png",
     "noImageResize": "",
@@ -48,12 +50,12 @@
             "showText": false,
             "paddingTop": "4",
             "paddingBottom": "5",
-            "bgColor": "#173686"
+            "bgColor": "#000000"
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/maxaqualanding-1400x787.jpg",
+              "src": "@PROJECT_PATH@/assets/images/maxaqualandingytjyrhfcysq-1400x787.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -73,16 +75,16 @@
         {
           "_params": {
             "showIcons": false,
-            "rows": "7",
-            "listColor": "@infoColor",
-            "btnColor": "@infoColor",
+            "rows": "8",
+            "listColor": "#616161",
+            "btnColor": "#931501",
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#173686",
+            "bgColor": "#000000",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
@@ -92,14 +94,14 @@
             "overlayOpacity": 0.4
           },
           "heading": "<b>Copyright 2019,&nbsp;Maxim Aqualight Official Website</b>",
-          "list1": "<a href=\"https://www.beatport.com/artist/maxim-aqualight/522058\" target=\"_blank\">Beatport</a>",
-          "list2": "<a href=\"https://itunes.apple.com/us/artist/maxim-aqualight/id1062745730\" target=\"_blank\">iTunes</a>",
-          "list3": "<a href=\"https://open.spotify.com/artist/3HRPUpB5wKJE6gRD0JZl88\" target=\"_blank\">Spotify</a>",
-          "list4": "<a href=\"https://www.shazam.com/ru/artist/202320955/maxim-aqualight\" target=\"_blank\">Shazam</a>",
-          "list5": "<a href=\"https://soundcloud.com/maxim-aqualight\" target=\"_blank\">Soundcloud</a>",
-          "list6": "<a href=\"https://mixupload.com/maxim_aqualight\" target=\"_blank\">Mixupload</a>",
-          "list7": "<a href=\"https://vk.com/maxim.aqualight.official.page\" target=\"_blank\">VK</a>",
-          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
+          "list1": "<a href=\"https://www.beatport.com/artist/maxim-aqualight/522058\" target=\"_blank\" class=\"text-danger\">Beatport</a>",
+          "list2": "<a href=\"https://itunes.apple.com/us/artist/maxim-aqualight/id1062745730\" target=\"_blank\" class=\"text-danger\">iTunes</a>",
+          "list3": "<a href=\"https://open.spotify.com/artist/3HRPUpB5wKJE6gRD0JZl88\" target=\"_blank\" class=\"text-danger\">Spotify</a>",
+          "list4": "<a href=\"https://www.shazam.com/ru/artist/202320955/maxim-aqualight\" target=\"_blank\" class=\"text-danger\">Shazam</a>",
+          "list5": "<a href=\"https://soundcloud.com/maxim-aqualight\" target=\"_blank\" class=\"text-danger\">Soundcloud</a>",
+          "list6": "<a href=\"https://mixupload.com/maxim_aqualight\" target=\"_blank\" class=\"text-danger\">Mixupload</a>",
+          "list7": "<a href=\"https://vk.com/maxim.aqualight.official.page\" target=\"_blank\" class=\"text-danger\">VK</a>",
+          "list8": "<a href=\"https://represent.com/store/aqualight-shop\" target=\"_blank\" class=\"text-danger\">Aqualight Shop</a>",
           "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
           "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
           "icons": "      <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-tumblr\"></i></a>    ",
@@ -110,19 +112,22 @@
           "_anchor": "footer2-1",
           "_styles": {
             ".footer-list": {
-              "color": "@infoColor"
+              "color": "#616161"
             },
             ".btn-social": {
-              "border-color": "@infoColor",
-              "color": "@infoColor"
+              "border-color": "#931501",
+              "color": "#931501"
             },
             ".btn-social:hover": {
-              "background": "@infoColor",
+              "background": "#931501",
               "color": "#fff"
             },
             ".footer-header B": {
               "font-size": "14px",
-              "color": "#000000"
+              "color": "#931501"
+            },
+            "LI": {
+              "color": "#931501"
             }
           }
         }
