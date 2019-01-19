@@ -94,14 +94,14 @@
             "overlayOpacity": 0.4
           },
           "heading": "<b>Copyright 2019,&nbsp;Maxim Aqualight Official Website</b>",
-          "list1": "<a href=\"https://www.beatport.com/artist/maxim-aqualight/522058\" target=\"_blank\" class=\"text-danger\">Beatport</a>",
-          "list2": "<a href=\"https://itunes.apple.com/us/artist/maxim-aqualight/id1062745730\" target=\"_blank\" class=\"text-danger\">iTunes</a>",
-          "list3": "<a href=\"https://open.spotify.com/artist/3HRPUpB5wKJE6gRD0JZl88\" target=\"_blank\" class=\"text-danger\">Spotify</a>",
-          "list4": "<a href=\"https://www.shazam.com/ru/artist/202320955/maxim-aqualight\" target=\"_blank\" class=\"text-danger\">Shazam</a>",
-          "list5": "<a href=\"https://soundcloud.com/maxim-aqualight\" target=\"_blank\" class=\"text-danger\">Soundcloud</a>",
-          "list6": "<a href=\"https://mixupload.com/maxim_aqualight\" target=\"_blank\" class=\"text-danger\">Mixupload</a>",
-          "list7": "<a href=\"https://vk.com/maxim.aqualight.official.page\" target=\"_blank\" class=\"text-danger\">VK</a>",
-          "list8": "<a href=\"https://represent.com/store/aqualight-shop\" target=\"_blank\" class=\"text-danger\">Aqualight Shop</a>",
+          "list1": "<a href=\"https://www.beatport.com/artist/maxim-aqualight/522058\" target=\"_blank\" class=\"text-black\">Beatport</a>",
+          "list2": "<a href=\"https://itunes.apple.com/us/artist/maxim-aqualight/id1062745730\" target=\"_blank\" class=\"text-black\">iTunes</a>",
+          "list3": "<a href=\"https://open.spotify.com/artist/3HRPUpB5wKJE6gRD0JZl88\" target=\"_blank\" class=\"text-black\">Spotify</a>",
+          "list4": "<a href=\"https://www.shazam.com/ru/artist/202320955/maxim-aqualight\" target=\"_blank\" class=\"text-black\">Shazam</a>",
+          "list5": "<a href=\"https://soundcloud.com/maxim-aqualight\" target=\"_blank\" class=\"text-black\">Soundcloud</a>",
+          "list6": "<a href=\"https://mixupload.com/maxim_aqualight\" target=\"_blank\" class=\"text-black\">Mixupload</a>",
+          "list7": "<a href=\"https://vk.com/maxim.aqualight.official.page\" target=\"_blank\" class=\"text-black\">VK</a>",
+          "list8": "<a href=\"https://represent.com/store/aqualight-shop\" target=\"_blank\" class=\"text-black\">Aqualight Shop</a>",
           "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
           "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
           "icons": "      <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-tumblr\"></i></a>    ",
@@ -124,7 +124,7 @@
             },
             ".footer-header B": {
               "font-size": "14px",
-              "color": "#931501"
+              "color": "#616161"
             },
             "LI": {
               "color": "#931501"
